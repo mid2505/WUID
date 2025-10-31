@@ -1,0 +1,7 @@
+these are the deployed links
+
+https://mid2505.github.io/WUID/dashboard.html
+https://mid2505.github.io/WUID/elearning.html
+https://mid2505.github.io/WUID/eventregistration.html
+https://mid2505.github.io/WUID/portfolio.html
+https://mid2505.github.io/WUID/travel.html
